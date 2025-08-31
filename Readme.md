@@ -6,7 +6,7 @@
 
 ---
 
-## 📄 Papers
+## 📄 Datasets
 
 | Year | Title | Venue | PDF/ArXiv | Code | Notes |
 |:---:|:------|:-----:|:---------:|:----:|:-----:|
@@ -18,7 +18,7 @@
 
 ---
 
-## 📦 Datasets
+## 📦 Papers
 
 | Name | Modalities | Link | Notes |
 |:----:|:----------:|:----:|:-----:|
@@ -33,12 +33,6 @@
 ## 🧪 Benchmarks & Protocols (brief)
 - Common metrics: EER, APCER/BPCER, HTER, AUC.
 - Cross-domain setups: leave-one-domain-out, unseen-attack types, unseen sensors.
-
----
-
-## 🤝 Contributing (Manual)
-- 直接编辑表格，**按模板行**添加一行即可。
-- 链接尽量使用 `https://`，代码仓库优先 GitHub/GitLab。
 
 ---
 
