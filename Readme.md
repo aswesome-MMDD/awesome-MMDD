@@ -8,7 +8,7 @@
 
 ## 📄 Datasets
 
-| Year | Title | Source | PDF | Code | Notes |
+| Year | Title | Source | PDF | Link | Notes |
 |:---:|:------|:-----:|:---------:|:----:|:-----:|
 | 2025 | Multimodal Lie Detection Dataset Based on Chinese Dialogue | Journal of Image and Graphics | [pdf](https://arxiv.org/abs/2407.12274)| [code](https://aip.seu.edu.cn/2024/1219/c54084a515309/page.htm) | - |
 | 2024 | MDPE: A Multimodal Deception Dataset with Personality and Emotional Characteristic | MM | [pdf](https://arxiv.org/abs/2407.12274) | [code](https://github.com/cai-cong/MDPE) | - |
