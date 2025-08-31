@@ -20,8 +20,7 @@
 
 | Year | Title | Source | PDF | Code | Notes |
 |:---:|:------|:-----:|:---------:|:----:|:-----:|
-| 2017 | Deep Learning Driven Multimodal Fusion for Automated Deception Detection |  IEEE Symposium Series on
-Computational Intelligence | [pdf](https://ieeexplore.ieee.org/document/8285382)| - | - |
+| 2017 | Deep Learning Driven Multimodal Fusion for Automated Deception Detection |  IEEE Symposium Series on Computational Intelligence | [pdf](https://ieeexplore.ieee.org/document/8285382)| - | - |
 | 2024 | MDPE: A Multimodal Deception Dataset with Personality and Emotional Characteristic | MM | [pdf](https://arxiv.org/abs/2407.12274) | [code](https://github.com/cai-cong/MDPE) | - |
 | 2024 | Exploring Facial Cues: Automated Deception Detection Using Artificial Intelligence | Neural Computing and Applications | [pdf](https://link.springer.com/article/10.1007/s00521-024-09811-x) | - | — | - |
 
