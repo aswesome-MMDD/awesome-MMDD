@@ -1,8 +1,8 @@
 # Domain-Adaptive FAS & Background Reconstruction Resources
 
-**Scope.** Methods, datasets, and protocols related to face anti-spoofing (FAS), domain adaptation/generalization, and depth-guided background reconstruction.
+**Scope.** Methods, datasets, and protocols related to multimodal deception detection.
 
-> ✍️ 更新方式：直接手工编辑本 README，往下方表格里 **追加一行** 即可。
+
 
 ---
 
