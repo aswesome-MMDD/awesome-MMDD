@@ -10,7 +10,7 @@
 
 | Year | Title | Venue | PDF/ArXiv | Code | Notes |
 |:---:|:------|:-----:|:---------:|:----:|:-----:|
-| 2024 | MDPE: A Multimodal Deception Dataset with Personality and Emotional Characteristic | MM | [pdf](https://example.com) | [code](https://github.com/xxx) | |
+| 2024 | MDPE: A Multimodal Deception Dataset with Personality and Emotional Characteristic | MM | [pdf](https://arxiv.org/abs/2407.12274) | [code](https://github.com/cai-cong/MDPE) | |
 | 2024 | Depth-Augmented Background Completion | ECCV | [arXiv](https://arxiv.org/abs/2407.00001) | - | — | depth, reconstruction |
 
 > 模板行（复制后改字段）：  
