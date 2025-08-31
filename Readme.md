@@ -10,7 +10,8 @@
 
 | Year | Title | Venue | PDF/ArXiv | Code | Dataset | Notes |
 |:---:|:------|:-----:|:---------:|:----:|:------:|:-----:|
-| 2025 | Domain-Adaptive Deception Detection with XYZ | CVPR | [pdf](https://example.com) | [code](https://github.com/xxx) | OULU-NPU | DA, FAS |
+| 2024 | Mdpe: A multimodal deception
+dataset with personality and emotional characteristic | MM | [pdf](https://example.com) | [code](https://github.com/xxx) | OULU-NPU | DA, FAS |
 | 2024 | Depth-Augmented Background Completion | ECCV | [arXiv](https://arxiv.org/abs/2407.00001) | - | — | depth, reconstruction |
 
 > 模板行（复制后改字段）：  
