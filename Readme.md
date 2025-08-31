@@ -10,7 +10,7 @@
 
 | Year | Title | Venue | PDF/ArXiv | Code | Notes |
 |:---:|:------|:-----:|:---------:|:----:|:-----:|
-| 2025 | Multimodal Lie Detection Dataset Based on Chinese Dialogue | Journal of Image and Graphics | [pdf](https://arxiv.org/abs/2407.12274)| | |
+| 2025 | Multimodal Lie Detection Dataset Based on Chinese Dialogue | Journal of Image and Graphics | [pdf](https://arxiv.org/abs/2407.12274)| - | - |
 | 2024 | MDPE: A Multimodal Deception Dataset with Personality and Emotional Characteristic | MM | [pdf](https://arxiv.org/abs/2407.12274) | [code](https://github.com/cai-cong/MDPE) | |
 | 2024 | Depth-Augmented Background Completion | ECCV | [arXiv](https://arxiv.org/abs/2407.00001) | - | — | depth, reconstruction |
 
