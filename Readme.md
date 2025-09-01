@@ -27,7 +27,7 @@
 | 2022 | Multimodal Political Deception Detection |  IEEE MultiMedia | [pdf](https://ieeexplore.ieee.org/abstract/document/9310253)| - | - |
 | 2022 | POLLY: a Multimodal Cross-Cultural Context-Sensitive Framework to Predict Political Lying from Videos |  ICMI 2021 | [pdf](https://dl.acm.org/doi/10.1145/3536221.3556617)| - | - |
 | 2021 | Unsupervised Audio-Visual Subspace Alignment for High-Stakes Deception Detection | ICASSP 2021 | [pdf](https://ieeexplore.ieee.org/abstract/document/9413550)| - | - |
-| 2020 | Introducing Representations of Facial Affect in Automated Multimodal Deception Detection | ICMI 2020 | [pdf](https://ieeexplore.ieee.org/abstract/document/9413550](https://dl.acm.org/doi/abs/10.1145/3382507.3418864)| - | - |
+| 2020 | Introducing Representations of Facial Affect in Automated Multimodal Deception Detection | ICMI 2020 | [pdf](https://dl.acm.org/doi/abs/10.1145/3382507.3418864)| - | - |
 | 2017 | Deep Learning Driven Multimodal Fusion for Automated Deception Detection |  IEEE Symposium Series on Computational Intelligence | [pdf](https://ieeexplore.ieee.org/document/8285382)| - | - |
 | 2017 | Lie Detector with Pupil Dilation and Eye Blinks Using Hough Transform and Frame Difference Method with Fuzzy Logic | ICCREC | [pdf](https://ieeexplore.ieee.org/document/8226697) | - | - |
 ---
