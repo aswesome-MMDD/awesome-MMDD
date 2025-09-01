@@ -20,6 +20,7 @@
 
 | Year | Title | Source | PDF | Code | Notes |
 |:---:|:------|:-----:|:---------:|:----:|:-----:|
+| 2025 | A Multimodal Framework for Lie Detection Using Statistical Validation and Feature Fusion | Research Square| [pdf](https://www.researchsquare.com/article/rs-6573656/v1)| - | - |
 | 2022 | Detecting Deception through Facial Expressions in a Dataset of Videotaped Interviews: a Comparison between Human Judges and Machine Learning Models | Computers in Human Behavior| [pdf](https://www.sciencedirect.com/science/article/abs/pii/S0747563221003861)| - | - |
 | 2017 | Deep Learning Driven Multimodal Fusion for Automated Deception Detection |  IEEE Symposium Series on Computational Intelligence | [pdf](https://ieeexplore.ieee.org/document/8285382)| - | - |
 | 2017 | Lie Detector with Pupil Dilation and Eye Blinks Using Hough Transform and Frame Difference Method with Fuzzy Logic | ICCREC | [pdf](https://ieeexplore.ieee.org/document/8226697) | - | - |
