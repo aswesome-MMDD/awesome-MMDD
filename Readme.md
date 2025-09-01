@@ -25,7 +25,7 @@
 | 2024 | FTM: The Face Truth Machine—Hand-Crafted Features from Micro-Expressions to Support Lie Detection | Computer Vision and Image Understanding | [pdf](https://www.sciencedirect.com/science/article/pii/S1077314224002698)| - | - |
 | 2022 | Detecting Deception through Facial Expressions in a Dataset of Videotaped Interviews: a Comparison between Human Judges and Machine Learning Models | Computers in Human Behavior| [pdf](https://www.sciencedirect.com/science/article/abs/pii/S0747563221003861)| - | - |
 | 2022 | Multimodal Political Deception Detection |  IEEE MultiMedia | [pdf](https://ieeexplore.ieee.org/abstract/document/9310253)| - | - |
-| 2022 | POLLY: a Multimodal Cross-Cultural Context-Sensitive Framework to Predict Political Lying from Videos |  2022 International Conference on Multi-Modal Interaction | [pdf](https://dl.acm.org/doi/10.1145/3536221.3556617)| - | - |
+| 2022 | POLLY: a Multimodal Cross-Cultural Context-Sensitive Framework to Predict Political Lying from Videos |  ICMI 2021 | [pdf](https://dl.acm.org/doi/10.1145/3536221.3556617)| - | - |
 | 2021 | Unsupervised Audio-Visual Subspace Alignment for High-Stakes Deception Detection | ICASSP 2021 | [pdf](https://ieeexplore.ieee.org/abstract/document/9413550)| - | - |
 | 2017 | Deep Learning Driven Multimodal Fusion for Automated Deception Detection |  IEEE Symposium Series on Computational Intelligence | [pdf](https://ieeexplore.ieee.org/document/8285382)| - | - |
 | 2017 | Lie Detector with Pupil Dilation and Eye Blinks Using Hough Transform and Frame Difference Method with Fuzzy Logic | ICCREC | [pdf](https://ieeexplore.ieee.org/document/8226697) | - | - |
