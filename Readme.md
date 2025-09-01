@@ -15,7 +15,7 @@
 | 2024 | Exploring Facial Cues: Automated Deception Detection Using Artificial Intelligence | Neural Computing and Applications | [pdf](https://link.springer.com/article/10.1007/s00521-024-09811-x) | - | — | - |
 | 2023 | LoRA-like Calibration for Multimodal Deception Detection using ATSFace Data | BigData'23 | [pdf](https://ieeexplore.ieee.org/abstract/document/10386630) | [link](https://github.com/dclay0324/ATSFace) | — | - |
 | 2023 | FacialCueNet: Unmasking Deception-Interpretable Model for Criminal Interrogation Using Facial Expressions | Applied Intelligence | [pdf](https://link.springer.com/article/10.1007/s10489-023-04968-9) | [link](https://github.com/BorumNam/FacialCueNet) | — | - |
-| 2023 | Audio-visual deception detection: Dolos Dataset and Parameter-Efficient Cross-Modal Learning | Applied Intelligence | [pdf](https://openaccess.thecvf.com/content/ICCV2023/html/Guo_Audio-Visual_Deception_Detection_DOLOS_Dataset_and_Parameter-Efficient_Crossmodal_Learning_ICCV_2023_paper.html) | [link](https://github.com/NMS05/Audio-Visual-Deception-Detection-DOLOS-Dataset-and-Parameter-Efficient-Crossmodal-Learning/tree/main) | ICCV'23 | - |
+| 2023 | Audio-visual deception detection: Dolos Dataset and Parameter-Efficient Cross-Modal Learning | ICCV'23 | [pdf](https://openaccess.thecvf.com/content/ICCV2023/html/Guo_Audio-Visual_Deception_Detection_DOLOS_Dataset_and_Parameter-Efficient_Crossmodal_Learning_ICCV_2023_paper.html) | [link](https://github.com/NMS05/Audio-Visual-Deception-Detection-DOLOS-Dataset-and-Parameter-Efficient-Crossmodal-Learning/tree/main) | - | - |
 
 
 
