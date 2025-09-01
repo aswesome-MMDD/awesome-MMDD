@@ -19,7 +19,7 @@
 | 2022 | POLLY: a Multimodal Cross-Cultural Context-Sensitive Framework to Predict Political Lying from Videos |  ICMI'22 | [pdf](https://dl.acm.org/doi/10.1145/3536221.3556617)| - | - |
 | 2022 | Detecting Deception through Facial Expressions in a Dataset of Videotaped Interviews: A Comparison between Human Judges and Machine Learning Models |   Computers in Human Behavior | [pdf](https://www.sciencedirect.com/science/article/abs/pii/S0747563221003861)| - | - |
 | 2021 | Identity Unbiased Deception Detection by 2d-to-3d Face Reconstruction |   WCACV'21 | [pdf](https://openaccess.thecvf.com/content/WACV2021/papers/Ngo_Identity_Unbiased_Deception_Detection_by_2D-to-3D_Face_Reconstruction_WACV_2021_paper.pdf)| - | - |
-
+| 2021 | Was It You Who Stole 500 Rubles?”-The Multimodal Deception Detection |   ICMI'21 | [pdf](https://dl.acm.org/doi/10.1145/3395035.3425638)| - | - |
 
 
 ---
