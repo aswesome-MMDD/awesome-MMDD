@@ -17,6 +17,8 @@
 | 2023 | FacialCueNet: Unmasking Deception-Interpretable Model for Criminal Interrogation Using Facial Expressions | Applied Intelligence | [pdf](https://link.springer.com/article/10.1007/s10489-023-04968-9) | [link](https://github.com/BorumNam/FacialCueNet) | — | - |
 | 2023 | Audio-visual deception detection: Dolos Dataset and Parameter-Efficient Cross-Modal Learning | ICCV'23 | [pdf](https://openaccess.thecvf.com/content/ICCV2023/html/Guo_Audio-Visual_Deception_Detection_DOLOS_Dataset_and_Parameter-Efficient_Crossmodal_Learning_ICCV_2023_paper.html) | [link](https://github.com/NMS05/Audio-Visual-Deception-Detection-DOLOS-Dataset-and-Parameter-Efficient-Crossmodal-Learning/tree/main) | - | - |
 | 2022 | POLLY: a Multimodal Cross-Cultural Context-Sensitive Framework to Predict Political Lying from Videos |  ICMI'22 | [pdf](https://dl.acm.org/doi/10.1145/3536221.3556617)| - | - |
+| 2022 | Detecting Deception through Facial Expressions in a Dataset of Videotaped Interviews: A Comparison between Human Judges and Machine Learning Models |   Computers in Human Behavior | [pdf](https://www.sciencedirect.com/science/article/abs/pii/S0747563221003861)| - | - |
+
 
 
 
