@@ -14,8 +14,7 @@
 | 2024 | MDPE: A Multimodal Deception Dataset with Personality and Emotional Characteristic | MM'24 | [pdf](https://arxiv.org/abs/2407.12274) | [link](https://github.com/cai-cong/MDPE) | - |
 | 2024 | Exploring Facial Cues: Automated Deception Detection Using Artificial Intelligence | Neural Computing and Applications | [pdf](https://link.springer.com/article/10.1007/s00521-024-09811-x) | - | — | - |
 | 2023 | LoRA-like Calibration for Multimodal Deception Detection using ATSFace Data | BigData'23 | [pdf](https://ieeexplore.ieee.org/abstract/document/10386630) | [link](https://github.com/dclay0324/ATSFace) | — | - |
-
-
+| 2023 | FacialCueNet: Unmasking Deception-Interpretable Model for Criminal Interrogation Using Facial Expressions | Applied Intelligence | [pdf](https://link.springer.com/article/10.1007/s10489-023-04968-9) | [link](https://github.com/BorumNam/FacialCueNet) | — | - |
 
 ---
 
