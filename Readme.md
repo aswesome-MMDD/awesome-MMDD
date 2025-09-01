@@ -51,8 +51,8 @@
 ---
 
 ## 🧪 Benchmarks & Protocols (brief)
-- Common metrics: EER, APCER/BPCER, HTER, AUC.
-- Cross-domain setups: leave-one-domain-out, unseen-attack types, unseen sensors.
+- Common metrics: .
+- Cross-domain setups: .
 
 ---
 
