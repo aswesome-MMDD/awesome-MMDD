@@ -20,8 +20,15 @@
 | 2022 | Detecting Deception through Facial Expressions in a Dataset of Videotaped Interviews: A Comparison between Human Judges and Machine Learning Models |   Computers in Human Behavior | [pdf](https://www.sciencedirect.com/science/article/abs/pii/S0747563221003861)| - | - |
 | 2021 | Identity Unbiased Deception Detection by 2d-to-3d Face Reconstruction |   WCACV'21 | [pdf](https://openaccess.thecvf.com/content/WACV2021/papers/Ngo_Identity_Unbiased_Deception_Detection_by_2D-to-3D_Face_Reconstruction_WACV_2021_paper.pdf)| - | - |
 | 2021 | Was It You Who Stole 500 Rubles?”-The Multimodal Deception Detection |   ICMI'21 | [pdf](https://dl.acm.org/doi/10.1145/3395035.3425638)| - | - |
-| 2020 | Multimodal Political Deception Detection |   IEEE MultiMedia | [pdf](https://ieeexplore.ieee.org/document/9310253)| - | - |
-
+| 2020 | Multimodal Political Deception Detection | IEEE MultiMedia | [pdf](https://ieeexplore.ieee.org/document/9310253)| - | - |
+| 2019 | High-Level Features for Multimodal Deception Detection in Videos | IEEE MultiMedia | [pdf]()| - | - |
+| 2019 | Automatic Long-Term Deception Detection in Group Interaction Videos |  | [pdf]()| - | - |
+| 2019 | Box of lies: Multimodal Deception Detection in Dialogues |  | [pdf]()| - | - |
+| 2018 | Gender Differences in Multimodal Contact-Free Deception Detection |  | [pdf]()| - | - |
+| 2018 | Miami University Deception Detection Database |  | [pdf]()| - | - |
+| 2018 | Automated Dyadic Data Recorder (ADDR) Framework and Analysis of Facial Cues in Deceptive Communication |  | [pdf]()| - | - |
+| 2016 | A Multimodal Dataset for Deception Detection |  | [pdf]()| - | - |
+| 2015 | Deception Detection Using Real-Life Trial Data |  | [pdf]()| - | - |
 ---
 
 ## 📦 Papers
