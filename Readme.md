@@ -11,9 +11,9 @@
 | Year | Title | Source | PDF | Link | Notes |
 |:---:|:------|:-----:|:---------:|:----:|:-----:|
 | 2025 | Multimodal Lie Detection Dataset Based on Chinese Dialogue | Journal of Image and Graphics | [pdf](https://arxiv.org/abs/2407.12274)| [link](https://aip.seu.edu.cn/2024/1219/c54084a515309/page.htm) | - |
-| 2024 | MDPE: A Multimodal Deception Dataset with Personality and Emotional Characteristic | MM | [pdf](https://arxiv.org/abs/2407.12274) | [link](https://github.com/cai-cong/MDPE) | - |
+| 2024 | MDPE: A Multimodal Deception Dataset with Personality and Emotional Characteristic | MM 24 | [pdf](https://arxiv.org/abs/2407.12274) | [link](https://github.com/cai-cong/MDPE) | - |
 | 2024 | Exploring Facial Cues: Automated Deception Detection Using Artificial Intelligence | Neural Computing and Applications | [pdf](https://link.springer.com/article/10.1007/s00521-024-09811-x) | - | — | - |
-| 2023 | LoRA-like Calibration for Multimodal Deception Detection using ATSFace Data | BigData 2023 | [pdf](https://ieeexplore.ieee.org/abstract/document/10386630) | [link](https://github.com/dclay0324/ATSFace) | — | - |
+| 2023 | LoRA-like Calibration for Multimodal Deception Detection using ATSFace Data | BigData 23 | [pdf](https://ieeexplore.ieee.org/abstract/document/10386630) | [link](https://github.com/dclay0324/ATSFace) | — | - |
 
 
 
@@ -25,15 +25,15 @@
 |:---:|:------|:-----:|:---------:|:----:|:-----:|
 | 2025 | Eception Detection based on Micro-Expression and Feature Selection Method | EURASIP Journal on Image and Video Processing| [pdf](https://link.springer.com/article/10.1186/s13640-025-00674-3)| - | - |
 | 2025 | A Multimodal Framework for Lie Detection Using Statistical Validation and Feature Fusion | Research Square| [pdf](https://www.researchsquare.com/article/rs-6573656/v1)| - | - |
-| 2024 | Video-Based Deception Detection Using Wrapper-Based Feature Selection | (CIVEMSA 2024) | [pdf](https://ieeexplore.ieee.org/abstract/document/10586610)| - | - |
+| 2024 | Video-Based Deception Detection Using Wrapper-Based Feature Selection | (CIVEMSA'24) | [pdf](https://ieeexplore.ieee.org/abstract/document/10586610)| - | - |
 | 2024 | FTM: The Face Truth Machine—Hand-Crafted Features from Micro-Expressions to Support Lie Detection | Computer Vision and Image Understanding | [pdf](https://www.sciencedirect.com/science/article/pii/S1077314224002698)| - | - |
 | 2022 | Detecting Deception through Facial Expressions in a Dataset of Videotaped Interviews: a Comparison between Human Judges and Machine Learning Models | Computers in Human Behavior| [pdf](https://www.sciencedirect.com/science/article/abs/pii/S0747563221003861)| - | - |
 | 2022 | Multimodal Political Deception Detection |  IEEE MultiMedia | [pdf](https://ieeexplore.ieee.org/abstract/document/9310253)| - | - |
 | 2022 | POLLY: a Multimodal Cross-Cultural Context-Sensitive Framework to Predict Political Lying from Videos |  ICMI 2021 | [pdf](https://dl.acm.org/doi/10.1145/3536221.3556617)| - | - |
-| 2021 | Unsupervised Audio-Visual Subspace Alignment for High-Stakes Deception Detection | ICASSP 2021 | [pdf](https://ieeexplore.ieee.org/abstract/document/9413550)| - | - |
-| 2020 | Introducing Representations of Facial Affect in Automated Multimodal Deception Detection | ICMI 2020 | [pdf](https://dl.acm.org/doi/abs/10.1145/3382507.3418864)| - | - |
-| 2019 | Automatic Long-Term Deception Detection in Group Interaction Videos | ICME 2019 | [pdf](https://ieeexplore.ieee.org/abstract/document/8784892)| - | - |
-| 2019 | Bag-of-Lies: A Multimodal Dataset for Deception Detection | CVPR workshop 2019 | [pdf](https://openaccess.thecvf.com/content_CVPRW_2019/html/CV-COPS/Gupta_Bag-Of-Lies_A_Multimodal_Dataset_for_Deception_Detection_CVPRW_2019_paper.html)| - | - |
+| 2021 | Unsupervised Audio-Visual Subspace Alignment for High-Stakes Deception Detection | ICASSP'21 | [pdf](https://ieeexplore.ieee.org/abstract/document/9413550)| - | - |
+| 2020 | Introducing Representations of Facial Affect in Automated Multimodal Deception Detection | ICMI'20 | [pdf](https://dl.acm.org/doi/abs/10.1145/3382507.3418864)| - | - |
+| 2019 | Automatic Long-Term Deception Detection in Group Interaction Videos | ICME'19 | [pdf](https://ieeexplore.ieee.org/abstract/document/8784892)| - | - |
+| 2019 | Bag-of-Lies: A Multimodal Dataset for Deception Detection | CVPR workshop'19 | [pdf](https://openaccess.thecvf.com/content_CVPRW_2019/html/CV-COPS/Gupta_Bag-Of-Lies_A_Multimodal_Dataset_for_Deception_Detection_CVPRW_2019_paper.html)| - | - |
 | 2017 | Deep Learning Driven Multimodal Fusion for Automated Deception Detection |  IEEE Symposium Series on Computational Intelligence | [pdf](https://ieeexplore.ieee.org/document/8285382)| - | - |
 | 2017 | Lie Detector with Pupil Dilation and Eye Blinks Using Hough Transform and Frame Difference Method with Fuzzy Logic | ICCREC | [pdf](https://ieeexplore.ieee.org/document/8226697) | - | - |
 
