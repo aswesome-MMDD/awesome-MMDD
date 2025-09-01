@@ -15,6 +15,10 @@
 | 2024 | Exploring Facial Cues: Automated Deception Detection Using Artificial Intelligence | Neural Computing and Applications | [pdf](https://link.springer.com/article/10.1007/s00521-024-09811-x) | - | — | - |
 | 2023 | LoRA-like Calibration for Multimodal Deception Detection using ATSFace Data | BigData'23 | [pdf](https://ieeexplore.ieee.org/abstract/document/10386630) | [link](https://github.com/dclay0324/ATSFace) | — | - |
 | 2023 | FacialCueNet: Unmasking Deception-Interpretable Model for Criminal Interrogation Using Facial Expressions | Applied Intelligence | [pdf](https://link.springer.com/article/10.1007/s10489-023-04968-9) | [link](https://github.com/BorumNam/FacialCueNet) | — | - |
+| 2023 | Audio-visual deception detection: Dolos Dataset and Parameter-Efficient Cross-Modal Learning | Applied Intelligence | [pdf](https://openaccess.thecvf.com/content/ICCV2023/html/Guo_Audio-Visual_Deception_Detection_DOLOS_Dataset_and_Parameter-Efficient_Crossmodal_Learning_ICCV_2023_paper.html) | [link](https://github.com/NMS05/Audio-Visual-Deception-Detection-DOLOS-Dataset-and-Parameter-Efficient-Crossmodal-Learning/tree/main) | ICCV'23 | - |
+
+
+
 
 ---
 
@@ -35,9 +39,6 @@
 | 2019 | Bag-of-Lies: A Multimodal Dataset for Deception Detection | CVPR workshop'19 | [pdf](https://openaccess.thecvf.com/content_CVPRW_2019/html/CV-COPS/Gupta_Bag-Of-Lies_A_Multimodal_Dataset_for_Deception_Detection_CVPRW_2019_paper.html)| - | - |
 | 2017 | Deep Learning Driven Multimodal Fusion for Automated Deception Detection |  IEEE Symposium Series on Computational Intelligence | [pdf](https://ieeexplore.ieee.org/document/8285382)| - | - |
 | 2017 | Lie Detector with Pupil Dilation and Eye Blinks Using Hough Transform and Frame Difference Method with Fuzzy Logic | ICCREC'17 | [pdf](https://ieeexplore.ieee.org/document/8226697) | - | - |
-
-
-
 ---
 
 ## 🧪 Benchmarks & Protocols (brief)
