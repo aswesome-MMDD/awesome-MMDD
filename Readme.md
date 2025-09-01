@@ -1,4 +1,4 @@
-# Domain-Adaptive FAS & Background Reconstruction Resources
+# Multimodal Deception Detection
 
 **Scope.** Methods, datasets, and protocols related to multimodal deception detection.
 
