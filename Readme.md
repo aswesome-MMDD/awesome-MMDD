@@ -51,8 +51,8 @@
 ---
 
 ## 🧪 Benchmarks & Protocols (brief)
-- Common metrics: .
-- Cross-domain setups: .
+- Common metrics: To Do.
+- Cross-domain setups: To Do.
 
 ---
 
